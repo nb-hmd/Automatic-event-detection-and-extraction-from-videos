@@ -464,13 +464,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit** - Web interface framework
 - **FastAPI** - High-performance API framework
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search existing [GitHub Issues](https://github.com/nb-hmd/Automatic-Event-Detection-and-Extraction-from-Videos/issues)
-3. Create a new issue with detailed information
 
 ## 🔮 Future Roadmap
 
@@ -482,7 +475,5 @@ If you encounter any issues or have questions:
 - [ ] Integration with popular video platforms
 
 ---
-
-**Made with ❤️ for the AI and Computer Vision community**
 
 *Star ⭐ this repository if you find it helpful!*
